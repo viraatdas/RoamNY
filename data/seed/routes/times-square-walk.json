@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "youtube_id": "UCE4d-BC6MsmbfiGNMdMiR5g",
+    "name": "Walk Around NYC",
+    "slug": "walk-around-nyc"
+  },
+  "video": {
+    "youtube_id": "bVkUfBBBFJA",
+    "title": "Times Square to Central Park Walk - NYC Walking Tour 4K",
+    "duration_secs": 1920,
+    "thumbnail_url": "https://img.youtube.com/vi/bVkUfBBBFJA/hqdefault.jpg"
+  },
+  "points": [
+    { "timestamp_s": 0, "lat": 40.7580, "lng": -73.9855, "heading": 0 },
+    { "timestamp_s": 60, "lat": 40.7590, "lng": -73.9848, "heading": 15 },
+    { "timestamp_s": 120, "lat": 40.7601, "lng": -73.9841, "heading": 20 },
+    { "timestamp_s": 180, "lat": 40.7612, "lng": -73.9835, "heading": 18 },
+    { "timestamp_s": 240, "lat": 40.7625, "lng": -73.9828, "heading": 15 },
+    { "timestamp_s": 300, "lat": 40.7638, "lng": -73.9821, "heading": 20 },
+    { "timestamp_s": 360, "lat": 40.7650, "lng": -73.9815, "heading": 22 },
+    { "timestamp_s": 420, "lat": 40.7662, "lng": -73.9808, "heading": 18 },
+    { "timestamp_s": 480, "lat": 40.7675, "lng": -73.9800, "heading": 15 },
+    { "timestamp_s": 540, "lat": 40.7688, "lng": -73.9792, "heading": 20 },
+    { "timestamp_s": 600, "lat": 40.7700, "lng": -73.9785, "heading": 25 },
+    { "timestamp_s": 660, "lat": 40.7712, "lng": -73.9778, "heading": 20 },
+    { "timestamp_s": 720, "lat": 40.7725, "lng": -73.9770, "heading": 15 },
+    { "timestamp_s": 780, "lat": 40.7738, "lng": -73.9762, "heading": 18 },
+    { "timestamp_s": 840, "lat": 40.7750, "lng": -73.9755, "heading": 20 },
+    { "timestamp_s": 900, "lat": 40.7762, "lng": -73.9748, "heading": 22 },
+    { "timestamp_s": 960, "lat": 40.7775, "lng": -73.9740, "heading": 18 },
+    { "timestamp_s": 1020, "lat": 40.7788, "lng": -73.9732, "heading": 15 },
+    { "timestamp_s": 1080, "lat": 40.7800, "lng": -73.9725, "heading": 20 },
+    { "timestamp_s": 1140, "lat": 40.7810, "lng": -73.9718, "heading": 18 },
+    { "timestamp_s": 1200, "lat": 40.7822, "lng": -73.9710, "heading": 15 },
+    { "timestamp_s": 1260, "lat": 40.7835, "lng": -73.9702, "heading": 20 },
+    { "timestamp_s": 1320, "lat": 40.7845, "lng": -73.9698, "heading": 10 },
+    { "timestamp_s": 1380, "lat": 40.7855, "lng": -73.9695, "heading": 5 },
+    { "timestamp_s": 1440, "lat": 40.7862, "lng": -73.9690, "heading": 8 },
+    { "timestamp_s": 1500, "lat": 40.7870, "lng": -73.9685, "heading": 10 },
+    { "timestamp_s": 1560, "lat": 40.7878, "lng": -73.9680, "heading": 12 },
+    { "timestamp_s": 1620, "lat": 40.7885, "lng": -73.9675, "heading": 8 },
+    { "timestamp_s": 1680, "lat": 40.7892, "lng": -73.9672, "heading": 5 },
+    { "timestamp_s": 1740, "lat": 40.7900, "lng": -73.9668, "heading": 3 },
+    { "timestamp_s": 1800, "lat": 40.7908, "lng": -73.9665, "heading": 0 },
+    { "timestamp_s": 1920, "lat": 40.7920, "lng": -73.9660, "heading": 350 }
+  ]
+}

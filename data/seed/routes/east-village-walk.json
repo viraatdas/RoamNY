@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "youtube_id": "UCBcRF18a7Qf58cCRy5xuWwQ",
+    "name": "ActionKid",
+    "slug": "actionkid"
+  },
+  "video": {
+    "youtube_id": "xyz789ghi01",
+    "title": "East Village & Alphabet City Walk - NYC Walking Tour 4K",
+    "duration_secs": 2100,
+    "thumbnail_url": "https://img.youtube.com/vi/xyz789ghi01/hqdefault.jpg"
+  },
+  "points": [
+    { "timestamp_s": 0, "lat": 40.7295, "lng": -73.9905, "heading": 90 },
+    { "timestamp_s": 70, "lat": 40.7292, "lng": -73.9892, "heading": 100 },
+    { "timestamp_s": 140, "lat": 40.7288, "lng": -73.9878, "heading": 110 },
+    { "timestamp_s": 210, "lat": 40.7285, "lng": -73.9865, "heading": 105 },
+    { "timestamp_s": 280, "lat": 40.7282, "lng": -73.9852, "heading": 100 },
+    { "timestamp_s": 350, "lat": 40.7278, "lng": -73.9838, "heading": 110 },
+    { "timestamp_s": 420, "lat": 40.7275, "lng": -73.9825, "heading": 100 },
+    { "timestamp_s": 490, "lat": 40.7272, "lng": -73.9812, "heading": 95 },
+    { "timestamp_s": 560, "lat": 40.7268, "lng": -73.9800, "heading": 100 },
+    { "timestamp_s": 630, "lat": 40.7265, "lng": -73.9788, "heading": 110 },
+    { "timestamp_s": 700, "lat": 40.7260, "lng": -73.9775, "heading": 120 },
+    { "timestamp_s": 770, "lat": 40.7255, "lng": -73.9780, "heading": 200 },
+    { "timestamp_s": 840, "lat": 40.7248, "lng": -73.9785, "heading": 210 },
+    { "timestamp_s": 910, "lat": 40.7240, "lng": -73.9790, "heading": 200 },
+    { "timestamp_s": 980, "lat": 40.7235, "lng": -73.9795, "heading": 210 },
+    { "timestamp_s": 1050, "lat": 40.7228, "lng": -73.9800, "heading": 220 },
+    { "timestamp_s": 1120, "lat": 40.7222, "lng": -73.9808, "heading": 230 },
+    { "timestamp_s": 1190, "lat": 40.7228, "lng": -73.9818, "heading": 50 },
+    { "timestamp_s": 1260, "lat": 40.7235, "lng": -73.9825, "heading": 40 },
+    { "timestamp_s": 1330, "lat": 40.7242, "lng": -73.9832, "heading": 30 },
+    { "timestamp_s": 1400, "lat": 40.7248, "lng": -73.9840, "heading": 320 },
+    { "timestamp_s": 1470, "lat": 40.7255, "lng": -73.9848, "heading": 310 },
+    { "timestamp_s": 1540, "lat": 40.7262, "lng": -73.9855, "heading": 320 },
+    { "timestamp_s": 1610, "lat": 40.7268, "lng": -73.9862, "heading": 330 },
+    { "timestamp_s": 1680, "lat": 40.7275, "lng": -73.9870, "heading": 340 },
+    { "timestamp_s": 1750, "lat": 40.7282, "lng": -73.9878, "heading": 350 },
+    { "timestamp_s": 1820, "lat": 40.7288, "lng": -73.9885, "heading": 0 },
+    { "timestamp_s": 1890, "lat": 40.7295, "lng": -73.9892, "heading": 350 },
+    { "timestamp_s": 1960, "lat": 40.7300, "lng": -73.9898, "heading": 340 },
+    { "timestamp_s": 2030, "lat": 40.7305, "lng": -73.9905, "heading": 330 },
+    { "timestamp_s": 2100, "lat": 40.7310, "lng": -73.9910, "heading": 320 }
+  ]
+}

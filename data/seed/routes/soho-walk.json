@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "youtube_id": "UCE4d-BC6MsmbfiGNMdMiR5g",
+    "name": "Walk Around NYC",
+    "slug": "walk-around-nyc"
+  },
+  "video": {
+    "youtube_id": "dQw4w9WgXcQ",
+    "title": "SoHo & NoLita Walking Tour - NYC 4K",
+    "duration_secs": 2400,
+    "thumbnail_url": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+  },
+  "points": [
+    { "timestamp_s": 0, "lat": 40.7233, "lng": -73.9985, "heading": 180 },
+    { "timestamp_s": 80, "lat": 40.7228, "lng": -73.9978, "heading": 170 },
+    { "timestamp_s": 160, "lat": 40.7222, "lng": -73.9970, "heading": 160 },
+    { "timestamp_s": 240, "lat": 40.7218, "lng": -73.9960, "heading": 140 },
+    { "timestamp_s": 320, "lat": 40.7215, "lng": -73.9948, "heading": 120 },
+    { "timestamp_s": 400, "lat": 40.7220, "lng": -73.9938, "heading": 90 },
+    { "timestamp_s": 480, "lat": 40.7225, "lng": -73.9928, "heading": 80 },
+    { "timestamp_s": 560, "lat": 40.7230, "lng": -73.9918, "heading": 70 },
+    { "timestamp_s": 640, "lat": 40.7238, "lng": -73.9908, "heading": 60 },
+    { "timestamp_s": 720, "lat": 40.7245, "lng": -73.9898, "heading": 50 },
+    { "timestamp_s": 800, "lat": 40.7250, "lng": -73.9888, "heading": 45 },
+    { "timestamp_s": 880, "lat": 40.7255, "lng": -73.9878, "heading": 50 },
+    { "timestamp_s": 960, "lat": 40.7260, "lng": -73.9870, "heading": 40 },
+    { "timestamp_s": 1040, "lat": 40.7268, "lng": -73.9862, "heading": 30 },
+    { "timestamp_s": 1120, "lat": 40.7275, "lng": -73.9855, "heading": 20 },
+    { "timestamp_s": 1200, "lat": 40.7280, "lng": -73.9848, "heading": 15 },
+    { "timestamp_s": 1280, "lat": 40.7270, "lng": -73.9840, "heading": 200 },
+    { "timestamp_s": 1360, "lat": 40.7262, "lng": -73.9835, "heading": 210 },
+    { "timestamp_s": 1440, "lat": 40.7255, "lng": -73.9842, "heading": 240 },
+    { "timestamp_s": 1520, "lat": 40.7248, "lng": -73.9850, "heading": 250 },
+    { "timestamp_s": 1600, "lat": 40.7240, "lng": -73.9858, "heading": 240 },
+    { "timestamp_s": 1680, "lat": 40.7232, "lng": -73.9865, "heading": 230 },
+    { "timestamp_s": 1760, "lat": 40.7225, "lng": -73.9872, "heading": 220 },
+    { "timestamp_s": 1840, "lat": 40.7218, "lng": -73.9880, "heading": 210 },
+    { "timestamp_s": 1920, "lat": 40.7210, "lng": -73.9888, "heading": 200 },
+    { "timestamp_s": 2000, "lat": 40.7205, "lng": -73.9895, "heading": 210 },
+    { "timestamp_s": 2080, "lat": 40.7198, "lng": -73.9902, "heading": 220 },
+    { "timestamp_s": 2160, "lat": 40.7192, "lng": -73.9910, "heading": 230 },
+    { "timestamp_s": 2240, "lat": 40.7185, "lng": -73.9918, "heading": 240 },
+    { "timestamp_s": 2320, "lat": 40.7180, "lng": -73.9925, "heading": 250 },
+    { "timestamp_s": 2400, "lat": 40.7175, "lng": -73.9932, "heading": 260 }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "youtube_id": "UCBcRF18a7Qf58cCRy5xuWwQ",
+    "name": "ActionKid",
+    "slug": "actionkid"
+  },
+  "video": {
+    "youtube_id": "abc123def45",
+    "title": "Brooklyn Bridge to DUMBO Walking Tour - 4K NYC Walk",
+    "duration_secs": 1800,
+    "thumbnail_url": "https://img.youtube.com/vi/abc123def45/hqdefault.jpg"
+  },
+  "points": [
+    { "timestamp_s": 0, "lat": 40.7127, "lng": -74.0059, "heading": 135 },
+    { "timestamp_s": 60, "lat": 40.7120, "lng": -74.0045, "heading": 130 },
+    { "timestamp_s": 120, "lat": 40.7112, "lng": -74.0030, "heading": 125 },
+    { "timestamp_s": 180, "lat": 40.7105, "lng": -74.0015, "heading": 120 },
+    { "timestamp_s": 240, "lat": 40.7098, "lng": -74.0000, "heading": 115 },
+    { "timestamp_s": 300, "lat": 40.7090, "lng": -73.9985, "heading": 110 },
+    { "timestamp_s": 360, "lat": 40.7082, "lng": -73.9972, "heading": 105 },
+    { "timestamp_s": 420, "lat": 40.7075, "lng": -73.9958, "heading": 100 },
+    { "timestamp_s": 480, "lat": 40.7068, "lng": -73.9945, "heading": 95 },
+    { "timestamp_s": 540, "lat": 40.7060, "lng": -73.9932, "heading": 100 },
+    { "timestamp_s": 600, "lat": 40.7050, "lng": -73.9920, "heading": 110 },
+    { "timestamp_s": 660, "lat": 40.7042, "lng": -73.9910, "heading": 120 },
+    { "timestamp_s": 720, "lat": 40.7035, "lng": -73.9902, "heading": 130 },
+    { "timestamp_s": 780, "lat": 40.7028, "lng": -73.9895, "heading": 140 },
+    { "timestamp_s": 840, "lat": 40.7020, "lng": -73.9890, "heading": 160 },
+    { "timestamp_s": 900, "lat": 40.7012, "lng": -73.9888, "heading": 170 },
+    { "timestamp_s": 960, "lat": 40.7005, "lng": -73.9885, "heading": 180 },
+    { "timestamp_s": 1020, "lat": 40.6998, "lng": -73.9882, "heading": 180 },
+    { "timestamp_s": 1080, "lat": 40.6990, "lng": -73.9880, "heading": 175 },
+    { "timestamp_s": 1140, "lat": 40.6982, "lng": -73.9878, "heading": 170 },
+    { "timestamp_s": 1200, "lat": 40.6978, "lng": -73.9885, "heading": 220 },
+    { "timestamp_s": 1260, "lat": 40.6975, "lng": -73.9892, "heading": 240 },
+    { "timestamp_s": 1320, "lat": 40.6972, "lng": -73.9900, "heading": 250 },
+    { "timestamp_s": 1380, "lat": 40.6968, "lng": -73.9908, "heading": 240 },
+    { "timestamp_s": 1440, "lat": 40.6965, "lng": -73.9915, "heading": 230 },
+    { "timestamp_s": 1500, "lat": 40.6960, "lng": -73.9920, "heading": 220 },
+    { "timestamp_s": 1560, "lat": 40.6958, "lng": -73.9928, "heading": 250 },
+    { "timestamp_s": 1620, "lat": 40.6955, "lng": -73.9935, "heading": 260 },
+    { "timestamp_s": 1680, "lat": 40.6952, "lng": -73.9940, "heading": 250 },
+    { "timestamp_s": 1740, "lat": 40.6948, "lng": -73.9945, "heading": 240 },
+    { "timestamp_s": 1800, "lat": 40.6945, "lng": -73.9950, "heading": 230 }
+  ]
+}
